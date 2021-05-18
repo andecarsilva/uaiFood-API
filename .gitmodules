@@ -1,0 +1,3 @@
+[submodule "docker/server-configs-nginx"]
+	path = docker/server-configs-nginx
+	url = https://github.com/h5bp/server-configs-nginx.git
